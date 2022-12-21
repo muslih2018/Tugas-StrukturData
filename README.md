@@ -1,2 +1,0 @@
-Tugas Struktur data
-MOH MUSLIH SAHMAT(H071211081)
